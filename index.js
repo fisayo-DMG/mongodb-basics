@@ -15,3 +15,5 @@ async function connectDB() {
 }
 
 connectDB();
+
+module.exports = client
